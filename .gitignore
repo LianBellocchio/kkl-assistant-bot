@@ -6,6 +6,7 @@ __pycache__/
 .Python
 env/
 venv/
+changelog/
 *.egg-info/
 .pytest_cache/
 denuncia kkl/
